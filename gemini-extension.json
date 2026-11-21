@@ -1,0 +1,10 @@
+{
+  "name": "macaroon-service-discovery",
+  "version": "0.1.0",
+  "description": "Discover Macaroon Network public services using its remote MCP server.",
+  "mcpServers": {
+    "macaroon-network": {
+      "httpUrl": "https://api.macaroonnetwork.com/mcp"
+    }
+  }
+}
